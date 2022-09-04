@@ -1,0 +1,9 @@
+/* some style */
+
+body {
+  display: flex;
+  justify-content: center;
+}
+ul {
+  list-style: none;
+}

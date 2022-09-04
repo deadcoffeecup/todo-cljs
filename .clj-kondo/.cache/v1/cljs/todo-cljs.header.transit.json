@@ -1,0 +1,1 @@
+["^ ","~$header-state",["^ ","~:row",3,"~:col",1,"~:name","^0","~:ns","~$todo-cljs.header","~:top-ns","^5"],"~$header",["^ ","^1",5,"^2",1,"~:fixed-arities",["~#set",[0]],"^3","^7","^4","^5","^6","^5","~:arities",["^ ","~i0",["^ ","~:ret","~:vector","~:arglist-str","[]"]]],"~:filename","/Users/tomaszsikora/dev/todo-cljs/src/todo_cljs/header.cljs"]
